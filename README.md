@@ -20,8 +20,9 @@
 - A passionate Self-taught Software Tester
 - Test Manual & Automation
 - Currently learning Security Testing
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml)-->
 - I’m currently open for a new job opportunity, this is [my resume]()
+<!-- - Personal website [link](https://www.0xabdulkhalid.ml)-->
+
 
 <br><br>
 

@@ -24,9 +24,16 @@ Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a stro
 - Currently learning Security Testing
 - I’m currently open for a new job opportunity, this is [my resume]()
  - Personal website [link](https://www.0xabdulkhalid.ml)-->
+<p align="center">
+<h3 align="left">What I Do:</h3>
+	
+- Functional Testing: I ensure that applications function as expected by executing test cases and analyzing results.
+- Automated Testing: I have experience using tools like Selenium, JUnit, and Cypress to automate repetitive test cases, enhancing test efficiency.
+- Performance Testing: I use tools like JMeter to assess the performance and scalability of applications under different conditions.
+- Bug Tracking: I utilize tools such as JIRA and Bugzilla to log, track, and manage bugs throughout the development lifecycle.
+- Test Documentation: I create detailed test plans, test cases, and test reports that align with industry standards and project requirements.
 
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

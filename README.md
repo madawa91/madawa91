@@ -5,18 +5,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone..&hearts;++;Self-taught+Software+Tester,;Cyber+Security+Student,;Me...,;Active+Learner/Researcher,;Love+to+learn+new+things..<3"></a>
 </p>
 
-
 <br>
-
-
-
 	
 ##  **About me**
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>   -->
 
 <br>
-Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a strong commitment to ensuring the highest quality in software applications. With over 5 years of experience in the industry, I've honed my skills in manual and automated testing across a variety of platforms and technologies. 
+<p align="left">
+Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a strong commitment to ensuring the highest quality in software applications. With over 5 years of experience in the industry, I've honed my skills in manual and automated testing across a variety of platforms and technologies. </p>
 <br>
 <!--
 - A passionate Self-taught Software Tester
@@ -92,14 +89,6 @@ Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a stro
 
 </a>
 </div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/madawa91/madawa91/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -114,10 +103,7 @@ Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a stro
 <img src="https://img.shields.io/badge/linkedin:  madawa91-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 <br>
-
-
 <li>
 <a href="mailto:thilinaranpatidewage@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  madawa91-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -130,23 +116,7 @@ Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a stro
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
 <div align='center'>
-
-## <b>ا</b>
-
 </div>
 <br>
-<br>
-<br>
-<br>
 
----
-
-<br>
-
-Credit:
-
-Last Edited on:

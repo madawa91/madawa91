@@ -11,17 +11,19 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+##  **About me**
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>   -->
 
 <br>
-
+Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a strong commitment to ensuring the highest quality in software applications. With over 5 years of experience in the industry, I've honed my skills in manual and automated testing across a variety of platforms and technologies. 
+<br>
+<!--
 - A passionate Self-taught Software Tester
 - Test Manual & Automation
 - Currently learning Security Testing
 - I’m currently open for a new job opportunity, this is [my resume]()
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml)-->
+ - Personal website [link](https://www.0xabdulkhalid.ml)-->
 
 
 <br><br>

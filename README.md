@@ -105,10 +105,11 @@ Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a stro
 ## <b> Let's Connect..!</b><img src="https://github.com/madawa91/madawa91/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-I'm always open to networking and collaboration opportunities! Feel free to reach out via email or connect with me on LinkedIn.
+
 <ul>
 
 <li>
+
 <a href="http://linkedin.com/in/thilina-leelananda" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  madawa91-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>

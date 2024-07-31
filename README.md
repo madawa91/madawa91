@@ -81,7 +81,7 @@ Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a stro
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Status </b>
 <br>
 
 <div align="center">
@@ -105,7 +105,7 @@ Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a stro
 ## <b> Let's Connect..!</b><img src="https://github.com/madawa91/madawa91/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
+I'm always open to networking and collaboration opportunities! Feel free to reach out via email or connect with me on LinkedIn.
 <ul>
 
 <li>

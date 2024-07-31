@@ -28,9 +28,9 @@ Hello! I'm Thilina, a passionate and detail-oriented Software Tester with a stro
 <h3 align="left">What I Do:</h3>
 	
 - Functional Testing: I ensure that applications function as expected by executing test cases and analyzing results.
-- Automated Testing: I have experience using tools like Selenium, JUnit, and Cypress to automate repetitive test cases, enhancing test efficiency.
+- Automated Testing: I have experience using tools like Selenium, JUnit, and BDD Cucumber to automate repetitive test cases, enhancing test efficiency.
 - Performance Testing: I use tools like JMeter to assess the performance and scalability of applications under different conditions.
-- Bug Tracking: I utilize tools such as JIRA and Bugzilla to log, track, and manage bugs throughout the development lifecycle.
+- Bug Tracking: I utilize tools such as JIRA and Mantis bug tracker to log, track, and manage bugs throughout the development lifecycle.
 - Test Documentation: I create detailed test plans, test cases, and test reports that align with industry standards and project requirements.
 
 <br>
